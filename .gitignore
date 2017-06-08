@@ -1,0 +1,15 @@
+Backup/
+Source/Code/.vs/
+Source/Code/FellSky/bin
+Source/Code/FellSky/obj
+logfile.txt
+logfile_editor.txt
+logfile_editor_prev.txt
+perflog.txt
+perflog_editor.txt
+Plugins/FellSky*
+Source/Code/packages
+WorkingFolder
+EditorUserData.xml
+DesignTimeData.dat
+Temp/
